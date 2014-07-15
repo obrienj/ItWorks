@@ -1,8 +1,8 @@
 package com.example.git2helloworlds;
 
-import android.app.ListActivity
+import android.app.ListActivity;
 
-  public class TestFetch extends ListActivity {
+  public class FetchingAJava extends ListActivity {
   
   
   }
