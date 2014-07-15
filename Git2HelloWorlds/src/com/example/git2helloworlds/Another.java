@@ -6,7 +6,7 @@ import android.app.Activity;
     
     // Edit made to this class from someone else.
     
-    // Another, another change.
+    // Another, another change. But then I make it better because your change was bad.
   
   
   }
