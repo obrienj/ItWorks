@@ -5,6 +5,8 @@ import android.app.Activity;
   public class Another extends Activity {
     
     // Edit made to this class from someone else.
+    
+    // Another, another change.
   
   
   }
