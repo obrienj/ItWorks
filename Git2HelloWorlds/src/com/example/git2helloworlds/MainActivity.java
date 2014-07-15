@@ -11,8 +11,10 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
-		
+				
 		int x = 5;
+
+		// This is a test to see what will happen.
+
 	}
 }
